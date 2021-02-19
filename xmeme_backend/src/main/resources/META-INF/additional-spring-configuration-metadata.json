@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "swagger.port",
+      "type": "java.lang.Integer",
+      "description": "Description for swagger.port."
+    },
+    {
+      "name": "swagger.paths",
+      "type": "java.lang.StringBuffer",
+      "description": "Description for swagger.paths."
+    }
+  ] }

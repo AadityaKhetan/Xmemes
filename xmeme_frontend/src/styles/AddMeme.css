@@ -1,0 +1,62 @@
+html,body{
+    overflow-x: hidden;
+}
+.memecard{
+    box-shadow:0px 0px 20px 0px #1f1f1f;
+    height: 25rem !important;
+}
+.form-control
+{
+    border: 1px solid #007bff87 !important;
+}
+label {
+    margin-top: 5px !important;
+}
+.addmemebtn{
+    padding: 10px;
+    margin: 15px !important;
+}
+
+@media screen and (max-width: 800px) {
+    .memecard.card{
+        margin: 50px auto !important;
+        padding: 10px;
+        width: 45rem !important;
+    }
+}
+@media screen and (max-width: 768px) {
+    .memecard.card{
+        margin: 50px auto !important;
+        padding: 10px;
+        width: 45rem !important;
+    }
+}
+@media screen and (max-width: 480px) {
+    .memecard.card {
+    margin: 50px 16px !important;
+    width: 28rem !important;
+}
+}
+@media screen and (max-width: 420px){
+.memecard.card {
+    margin: 50px 19px !important;
+    width: 24rem !important;
+}
+}
+
+
+
+@media screen and (max-width: 360px) {
+    .memecard.card{
+margin: 50px 12px !important;
+    padding: 10px;
+    width: 21rem !important;
+    }
+}
+
+@media screen and (max-width: 320px){
+.memecard.card {
+    width: 18rem !important;
+    margin: 50px 16px !important;
+}
+}

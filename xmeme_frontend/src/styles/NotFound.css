@@ -1,0 +1,54 @@
+.Error{
+    text-align:center;
+}
+.heading1{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    color:white;
+    font-family:fangsong;
+    font-weight:900 !important;
+    background-color: #00000026;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+img.image2{
+        box-shadow: 0px 0px 20px 20px #0000004d;
+        border: 2px solid black;
+        padding: 5px;
+        margin-top:40px;
+
+      }
+
+.pagent
+{
+    margin-top:50px;
+    margin-bottom:40px;
+}
+a.Button {
+    background-color: #ffffff94;
+    padding: 20px;
+    color: black;
+    font-weight: 500;
+    font-size: 22px;
+    
+}
+.heading2 {
+    margin: auto;
+    background-color: #ffffff7a;
+    width: 30%;
+    padding:10px;
+}
+ @media screen and (max-width: 480px) {
+.heading1{
+    width:90%;
+}
+.heading2
+{
+    width:90%;
+}
+img.image2
+{
+    width:340px;
+}
+ }
