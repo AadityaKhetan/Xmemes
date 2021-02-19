@@ -7,11 +7,14 @@ Users can also view and edit the posted memes. All the memes are displayed in a 
 The Frontend made using <b>REACTJS</b> sends all the <b>HTTP requests</b> through a <b>REST API</b> made in <b>Spring Boot</b> which further stores the meme details with name, caption and image url in a <b>MySQL database</b>.
 <h2>Application Architecture</h2>
 <p><img src="Architecture.png" alt="Application Architecture"></p>
-<h2>Technology used</h2>
+<h2>Requirements</h2>
 <ul>
-<li>Node.js 14.15.5 LTS</li>
-<li>Spring Boot 2.4.2</li>
-<li>MySQL</li>
+    <li>Node.js 14.15.5 LTS</li>
+    <li>Java SDK v1.8 or higher</li>
+    <li>Java 8 or higher</li>
+    <li>Maven 3.3 or higher</li>
+    <li>Spring Boot 2.4.2</li>
+    <li>MySQL 5.6 or higher</li>
 </ul>
 <h2>Endpoints</h2>
 <div>
