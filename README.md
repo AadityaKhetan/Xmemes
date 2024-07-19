@@ -4,7 +4,7 @@
 <h1>Meme Stream : Spring Boot + ReactJS Application</h1>
 <p>A Full Stack meme stream application where users can post a meme by providing name,caption and an image url.
 Users can also view and edit the posted memes. All the memes are displayed in a reverse chronological order on the basis of day it was posted.
-The Frontend made using <b>REACTJS</b> sends all the <b>HTTP requests</b> through a <b>REST API</b> made in <b>Spring Boot</b> which further stores the meme details with name, caption and image url in a <b>MySQL database</b>.
+The Frontend made using <b>REACTJS</b> sends all the <b>HTTP requests</b> through a <b>REST API</b> made in <b>Spring Boot</b> which further stores the meme details with name, caption and image url in a <b>MySQL database</b>
 <h2>Application Architecture</h2>
 <p><img src="Architecture.png" alt="Application Architecture"></p>
 <h2>Requirements</h2>
